@@ -133,3 +133,4 @@ C:\Users\Ahmed\source\repos\SongListAPI\obj\Debug\net5.0\SongListAPI.dll
 C:\Users\Ahmed\source\repos\SongListAPI\obj\Debug\net5.0\ref\SongListAPI.dll
 C:\Users\Ahmed\source\repos\SongListAPI\obj\Debug\net5.0\SongListAPI.pdb
 C:\Users\Ahmed\source\repos\SongListAPI\obj\Debug\net5.0\SongListAPI.genruntimeconfig.cache
+C:\Users\Ahmed\source\repos\SongListAPI\bin\Debug\net5.0\System.Web.Cors.dll
